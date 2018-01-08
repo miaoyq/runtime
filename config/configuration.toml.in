@@ -96,6 +96,8 @@ path = "@SHIMPATH@"
 # (default: disabled)
 #enable_debug = true
 
+[agent.cc]
+
 [runtime]
 # If enabled, the runtime will log additional debug messages to the
 # system log
